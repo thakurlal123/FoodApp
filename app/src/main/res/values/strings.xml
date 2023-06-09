@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="skip">Skip</string>
+    <string name="resister">Resister</string>
+    <string name="login">Login</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="todo">TODO</string>
+    <string name="erthakurla15_gmail_com">erthakurla15@gmail.com</string>
+</resources>
